@@ -2,9 +2,9 @@
 Cryptography is the act of using codes or ciphers to protect secrets. 
 Encryption techniques are methods of securing data by converting it into unreadable formats that can only be reverted by authorized users. Common techniques include:  
 
-Symmetric Encryption: Uses a single key for both encryption and decryption (e.g., AES, DES).  
-Asymmetric Encryption: Uses a public key for encryption and a private key for decryption (e.g., RSA).  
-Hash Functions: Generates a fixed-size hash value from data, often for verifying integrity (e.g., SHA-256).  
+*Symmetric Encryption:* Uses a single key for both encryption and decryption (e.g., AES, DES).  
+*Asymmetric Encryption: ,*Uses a public key for encryption and a private key for decryption (e.g., RSA).  
+*Hash Functions:* Generates a fixed-size hash value from data, often for verifying integrity (e.g., SHA-256).  
 
 ### Key Characteristics of AES:
 Block Size: 128 bits (16 bytes) — AES processes data in blocks of this size.
