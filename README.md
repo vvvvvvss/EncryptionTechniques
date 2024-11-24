@@ -22,7 +22,10 @@ In the example above, AES is used in CBC (Cipher Block Chaining) mode, which is 
 Key Generation: You need a secret key, which can be 128, 192, or 256 bits long.
 Padding: The message may need to be padded if its length is not a multiple of the block size (16 bytes). Padding ensures that the last block of data is the correct size.
 Encryption: The message is encrypted block by block using the key, applying XOR operations and substitutions according to the AES algorithm.
-Decryption: The same key is used to decrypt the message by reversing the encryption process.
+Decryption: The same key is used to decrypt the message by reversing the encryption process.  
+
+
+https://cloud.google.com/learn/what-is-encryption?hl=en#what-is-encryption 
 AES is widely used in various applications such as securing communications, file encryption, and more due to its efficiency and security properties. It has been adopted as the encryption standard by the U.S. government and is used across many industries worldwide.
 
 ## CBC (Cipher Block Chaining) 
